@@ -1,0 +1,10 @@
+#heading {
+    background-color: red;
+    background-size: cover;
+}
+canvas{
+    border: 5px solid black;
+    box-shadow: 5px 5px 5px gray;
+    border-radius: 20px;
+    margin-top: 130px;
+}
